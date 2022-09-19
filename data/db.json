@@ -1,0 +1,25 @@
+{
+  "blogs": [
+    {
+      "title": "Battle of the sexes",
+      "body": "Wikipedia: Another event dubbed a \"Battle of the Sexes\" took place during the 1998 Australian Open[59] between Karsten Braasch and the Williams sisters. Venus and Serena Williams had claimed that they could beat any male player ranked outside the world's top 200, so Braasch, then ranked 203rd, challenged them both. Braasch was described by one journalist as \"a man whose training regime centered around a pack of cigarettes and more than a couple of bottles of ice cold lager\".[60][59] The matches took place on court number 12 in Melbourne Park,[61] after Braasch had finished a round of golf and two shandies. He first took on Serena and after leading 5–0, beat her 6–1. Venus then walked on court and again Braasch was victorious, this time winning 6–2.[59] Braasch said afterwards, \"500 and above, no chance\". He added that he had played like someone ranked 600th in order to keep the game \"fun\"[62] and that the big difference was that men can chase down shots much more easily and put spin on the ball that female players could not handle. The Williams sisters adjusted their claim to beating men outside the top 350.\n\n",
+      "author": "Mike",
+      "category": "Sport",
+      "id": 1
+    },
+    {
+      "title": "<h1> Titlte </h1>",
+      "body": "<p> A modest blog body </p>",
+      "author": "Mike",
+      "category": "Tech",
+      "id": 2
+    },
+    {
+      "title": "JSON Server",
+      "body": "This React App uses JSON Server, which is a fake Rest API solution for quick back-end prototyping, go read the docs here: https://www.npmjs.com/package/json-server\n\nStart JSON server in the app dir by running the command:\n\nnpx json-server --watch db.json --port 8000\n\nIf the default JSON server port is the same with React one, make this change",
+      "author": "Mike",
+      "category": "Tech",
+      "id": 3
+    }
+  ]
+}
