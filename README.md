@@ -16,5 +16,7 @@ Clone the repo and run the bellow command to install package dependencies:
 
 # Project overview
 
+This app contains a Home page where the user can see a list of all the blogs contained in the database, clicking on a blog sends the user to a new page where he can read the blog body, a Create new blog page lets the user create a new blog and add it to the database and a button to delete a specific blog will be presend on the Home page and individual blog.
+
 - data folder will contain the database (JSON Server), which is a plain .json file 
 - src will contain the contents of the app: the main App.js file and other components
