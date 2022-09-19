@@ -13,3 +13,8 @@ Clone the repo and run the bellow command to install package dependencies:
 ```bash
   npm install
 ```
+
+# Project overview
+
+- data folder will contain the database (JSON Server), which is a plain .json file 
+- src will contain the contents of the app: the main App.js file and other components
